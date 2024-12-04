@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../JAVASCRIPT"
+		},
+		{
+			"path": "../../js"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/DBMS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
